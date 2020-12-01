@@ -1,16 +1,20 @@
 # hotaal
 
-A new Flutter application.
+## Screenshots
 
-## Getting Started
+### Home Page
+![](image/homepage.png)
 
-This project is a starting point for a Flutter application.
+### login page
+![](image/login%20page.png)
 
-A few resources to get you started if this is your first Flutter project:
+### menu plan page
+![](image/menu%20plan%20page.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### sign up page
+![](image/sign%20up%20page.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### voice navigation
+
+![](image/voice%20navigation%20page.png)
+
