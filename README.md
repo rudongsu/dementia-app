@@ -1,4 +1,5 @@
 # hotaal
+An assistive technology solution that helps older adults to stay healthy by having a good nutrition and help the caregivers to remotely monitor how completely and consistently the daily routines with respect to nutrition have been performed, and determine when the older adults needs assistance.The system that involves mobile applications used by older adults, caregivers and family.
 
 ## Screenshots
 
