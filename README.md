@@ -18,3 +18,5 @@
 
 ![](image/voice%20navigation%20page.png)
 
+## Research Paper
+In case you are interested in this project, you are welcome to check my [Research Paper](https://drive.google.com/file/d/1X8EXWSKhzrNrt7IIxHKQO0yRGvybUMz9/view?usp=sharing)
