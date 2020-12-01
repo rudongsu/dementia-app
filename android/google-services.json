@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "216835249730",
+    "firebase_url": "https://hotaal-e034b.firebaseio.com",
+    "project_id": "hotaal-e034b",
+    "storage_bucket": "hotaal-e034b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216835249730:android:0a17dcc7a037562f",
+        "android_client_info": {
+          "package_name": "com.example.hotaal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216835249730-ma5mojb4g6jo3l89nqvt3mdv0q8jse2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiHXBQy3JwuvinM00aBfDhgyqObtteDfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216835249730-ma5mojb4g6jo3l89nqvt3mdv0q8jse2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
